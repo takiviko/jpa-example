@@ -2,12 +2,11 @@ package legoset;
 
 import java.time.Year;
 import java.util.List;
+import legoset.model.*;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-
-import legoset.model.LegoSet;
 
 import lombok.extern.log4j.Log4j2;
 
